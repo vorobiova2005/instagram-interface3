@@ -1,0 +1,72 @@
+.container {
+  text-align: center;
+}
+input {
+  margin-top: 20px;
+  width: 700px;
+  height: 30px;
+  background-color: rgb(196, 196, 196);
+  border: none;
+}
+.one {
+  margin-top: 0px;
+  margin-left: 20px;
+  height: 40px;
+}
+button {
+  margin-top: 20px;
+  width: 300px;
+  height: 30px;
+  margin-left: 0px;
+}
+.two {
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 5px;
+  width: 300px;
+  height: 270px;
+}
+.three {
+  margin-top: 5px;
+  margin-left: 470px;
+  width: 650px;
+  height: 550px;
+}
+.four {
+  position: absolute;
+  margin-left: 150px;
+  margin-top: -280px;
+  width: 300px;
+  height: 270px;
+}
+.five {
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 5px;
+  width: 300px;
+  height: 270px;
+}
+.six {
+  margin-top: 5px;
+  margin-left: 470px;
+  width: 300px;
+  height: 270px;
+}
+.seven {
+  margin-top: -300px;
+  margin-left: 790px;
+  width: 320px;
+  height: 290px;
+}
+.eight {
+  position: absolute;
+  margin-left: 150px;
+  width: 300px;
+  height: 270px;
+}
+img {
+  margin-left: 150px;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
+}
